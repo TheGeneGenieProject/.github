@@ -8,4 +8,6 @@ you can always build your own releases).
 
 Contact me on Mastodon at @ryanoneill1970@mastodon.social if you'd like to discuss this work.
 
+The current effort is to update all projects to the latest version of .Net and make all builds reliable.
+
 Ryan
