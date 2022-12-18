@@ -1,2 +1,2 @@
 # .github
-Prject organisation overview
+Project organisation overview
